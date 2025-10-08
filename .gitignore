@@ -135,3 +135,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 s3/02-parsing-request-bodies/message.txt
+s3/05-fixed-missing-head-tag/message.txt
