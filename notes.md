@@ -11,3 +11,10 @@ Install node: https://nodejs.org/en/download
 `req.url`, `req.method`, `req.headers`
 
 ### response
+
+## s5
+
+### Middleware
+
+`next()` allows the request to continue to the next middleware in line
+
