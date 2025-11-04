@@ -21,3 +21,9 @@ Install node: https://nodejs.org/en/download
 ### Routes
 
 `app.use()`
+
+### Methods
+
+`app.get()`
+
+`app.post()`
